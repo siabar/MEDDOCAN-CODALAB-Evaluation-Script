@@ -1,8 +1,9 @@
+*.csv
 *.txt
-*.ann
 *.xml
-.DS_Store
-.idea
-
-
-
+*.ann
+*.xmi
+*.png
+*.iml
+*.zip
+*.DS_Store
